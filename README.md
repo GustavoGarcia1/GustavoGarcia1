@@ -1,6 +1,6 @@
 ### Hi! I am Gustavo Garcia 👋
 
-- 🔭 I’m currently working on Expocaccer as developer fullstack
+- 🔭 I’m currently working on Expocacer as developer fullstack
 - 🌱 I’m currently learning TypeScript
 
 <div style="display: inline_block"><br>
